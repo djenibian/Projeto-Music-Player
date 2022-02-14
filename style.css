@@ -1,0 +1,153 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #26282B;
+    color: #ddd;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	overflow: hidden;
+    height: 250px;
+    width: 250px;
+    transition: all 0.25s ease;
+    border: 10px solid #18191D;
+    border-radius: 100%;
+    transform-origin: top center;
+    box-shadow: -5px -5px 25px #444444, 5px 5px 25px #050606;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.descricao {
+    width: 300px;
+	text-align: center;
+}
+
+h2 {
+    margin-bottom: 5px;
+	font-size: 36px;
+    padding-bottom: 10px;
+	color: #A7A8AA;
+	text-align: center;
+}
+
+
+.duracao {
+    width: 300px;
+    margin-top: 25px;
+}
+
+.barra {
+    width: 300px;
+    height: 6px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+progress {
+    height: 6px;
+    width: 0%;
+    background-color: #333;
+}
+
+.ponto {
+    width: 20px;
+    height: 20px;
+    background-color: #eee;
+    border-radius: 50%;
+    margin-left: -10px;
+}
+
+.tempo {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.player {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;  
+}
+
+
+
+.botao-play, .botao-pause {
+    font-size: 60px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    border: 2px solid #6e6e6e;
+    border-radius: 100%;
+    transform-origin: top center;
+    box-shadow: -5px -5px 25px #444444, 5px 5px 25px #5a5a5a;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+		
+
+.setas {
+    font-size: 40px;	
+}
+
+
+   
+	
+
+
+
+
+
+.botao-menu{
+	cursor: pointer;
+    position: relative;
+    display: inline-block;
+	display: flex;
+	
+    
+    border-radius: 50px;
+    background-color: #050606;
+    background-image: linear-gradient(120deg, #47494B 0%, #18191D 100%);
+    color: #84878A;
+    text-align: center;
+    border-style: solid;
+    border-color: #2f3139;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    text-align: center;
+	font-size: 1.1rem;
+    height: 45px;
+    width: 45px;
+    border-width: 3px;
+    line-height: 1;
+    box-shadow: -3px -3px 20px #5b5b5b, 5px 5px 20px #050606;
+   
+    font-size: 0.8rem;
+    height: 50px;
+    width: 50px;
+    border-width: 2px;
+    line-height: 1;
+
+	padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+	padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+	
+}
+
