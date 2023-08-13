@@ -85,7 +85,7 @@ progress {
 
 
 .botao-play, .botao-pause {
-    font-size: 60px;
+    font-size: 59px;
     cursor: pointer;
     transition: all 0.25s ease;
     border: 2px solid #6e6e6e;
