@@ -4,21 +4,21 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://asset.cloudinary.com/ddfrjwkkd/be75609910bce418a41a8a51aad58a1c">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/djenibian/Projeto-Music-Player.svg">
 
-  <img alt="GitHub language count" src="https://asset.cloudinary.com/ddfrjwkkd/1061ae0baf85f59c6c9c466db81364d2">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/djenibian/Projeto-Music-Player.svg">
 
-  <a href="https://www.codacy.com/app/dionbiancha/starbucks-landing-page?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dionbiancha/starbucks-landing-page&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/dionbiancha/starbucks-landing-page?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=djenibian/Projeto-Music-Player&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionbiancha/starbucks-landing-page.svg">
-  <a href="https://github.com/dionbiancha/starbucks-landing-page/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dionbiancha/starbucks-landing-page.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/djenibian/Projeto-Music-Player.svg">
+  <a href="https://github.com/djenibian/Projeto-Music-Player/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/djenibian/Projeto-Music-Player.svg">
   </a>
 
   <a href="https://github.com/djenibian/Projeto-Music-Player/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues//starbucks-landing-page.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues//Projeto-Music-Player.svg">
   </a>
 
 </p>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/djenibian/image/upload/v1640781033/github/chrome-captureaaaa_1_oqwwxx.gif">
+  <img alt="Print" src="https://asset.cloudinary.com/ddfrjwkkd/1061ae0baf85f59c6c9c466db81364d2">
 </p>
 
 <p align="center">
