@@ -15,8 +15,7 @@
 
 <p align="center">
   <a href="https://djenibian.github.io/Projeto-Music-Player/" target="_blank">
-    <img alt="N33dful" src="https://res.cloudinary.com/ddfrjwkkd/image/upload/v1696099306/Projeto-Music-Playerr.png">
-  </a>
+    
 </p>
 
 ## :computer: Technologies
