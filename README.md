@@ -22,8 +22,8 @@
 
 This project was developed with the following technologies:
 
--  [HTML5](https://pt.wikipedia.org/wiki/HTML5)
--  [CSS3](https://pt.wikipedia.org/wiki/CSS3)
+-  [HTML5](https://pt.wikipedia.org/wiki/HTML)
+-  [CSS3](https://pt.wikipedia.org/wiki/CSS)
 -  [JavaScript](https://www.javascript.com/)
 -  [Github Pages](https://pages.github.com/)
 -  [VS Code](https://code.visualstudio.com/) 
@@ -37,7 +37,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 $ git clone https://github.com/djenibian/Projeto-Music-Player.git
 
 # Go into the repository
-$ cd starbucks-landing-page
+$ cd Projeto-Music-Player
 
 # Run the app
 $ start index.html
