@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/ddfrjwkkd/image/upload/v1696096746/Projeto-Music-Player.png">
+  <img alt="Print" src="https://res.cloudinary.com/ddfrjwkkd/image/upload/v1696099306/Projeto-Music-Playerr.png">
 </p>
 
 <p align="center">
   <a href="https://djenibian.github.io/Projeto-Music-Player/" target="_blank">
-    <img alt="N33dful" src="https://res.cloudinary.com/djenibian/image/upload/v1610500435/github/view_on_github_n2rq43.png">
+    <img alt="N33dful" src="https://res.cloudinary.com/ddfrjwkkd/image/upload/v1696099306/Projeto-Music-Playerr.png">
   </a>
 </p>
 
