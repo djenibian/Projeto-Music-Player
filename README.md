@@ -2,6 +2,9 @@
     <br>
   Projeto-Music-Player
 </h1>
+<h4 align="center">
+   Este é um projeto de um player de música simples que permite reproduzir, pausar, avançar e retroceder faixas de música em um reprodutor de áudio interativo incorporado na página web
+</h4>
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
