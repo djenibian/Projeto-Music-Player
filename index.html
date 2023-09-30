@@ -1,44 +1,80 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <title>Music Player</title>
     <link rel="stylesheet" href="style.css">
-    <title>Projeto Player Spotify</title>
-</head>
-<body>
-	<div class="small">
-        <i class="fas fa-menu-circle botao-menu"></i>
-        
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&amp;family=Signika+Negative:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="player">
+        <div class="player-top">
+          <button class="player-btn" type="button">
+            <i class="fa-solid fa-arrow-left"></i>
+          </button>
+          <span>Spotify Music App</span>
+          <button class="player-btn" type="button">
+            <i class="fa-solid fa-ellipsis"></i>
+          </button>
+        </div>
+        <div class="player-body">
+          <div class="current-song">
+            <div class="cover">
+              <span>Metallica</span>
+              <span>Nothing Else Matters</span>
+            </div>
+          </div>
+        </div>
+        <div class="song-info">
+          <div class="song-details">
+            <span class="song-name">Nothing Else Matters</span>
+            <span class="song-artist">Metallica</span>
+          </div>
+          <i class="fa-solid fa-heart"></i>
+        </div>
+        <div class="song-duration">
+          <div class="song-time">
+            <div class="song-progress">
+              <audio src="music/song1.mp3" class="audio"></audio>
+            </div>
+          </div>
+          <div class="time">
+            <span>0:00</span>
+            <span>0:00</span>
+          </div>
+        </div>
+        <div class="controls">
+          <button class="player-btn" type="button">
+            <i class="fa-solid fa-shuffle"></i>
+          </button>
+          <button class="player-btn prev-btn" type="button">
+            <i class="fa-solid fa-backward"></i>
+          </button>
+          <button class="player-btn play-pause" type="button">
+            <i class="fa-solid fa-play"></i>
+          </button>
+          <button class="player-btn next-btn" type="button">
+            <i class="fa-solid fa-forward"></i>
+          </button>
+          <button class="player-btn" type="button">
+            <i class="fa-solid fa-repeat"></i>
+          </button>
+        </div>
+        <div class="player-footer">
+          <i class="fa-sharp fa-solid fa-music"></i>
+          <span>Listen to Spotify Music</span>
+          <i class="fa-sharp fa-solid fa-list"></i>
+        </div>
+      </div>
+    </div>
 
-    <img src="imagem/mind.jpg">
-    <div class="descricao">
-        <h2>The last day</h2>
-        <i>Moby</i>
-    </div>
-    <div class="duracao">
-        <div class="barra">
-            <progress value="0" max="1"></progress>
-            <div class="ponto"></div>
-        </div>
-        <div class="tempo">
-            <p class="inicio">0:00</p>
-            <p class="fim">3:40</p>
-        </div>
-    </div>
-    <div class="player">
-        <i class="fas fa-step-backward setas anterior"></i>
-        <i class="fas fa-play-circle botao-play"></i>
-        <i class="fas fa-pause-circle botao-pause"></i>
-        <i class="fas fa-step-forward setas proximo"></i>
-    
-    </div>
-    <audio src="musicas/The last day.mp3"></audio>
-    <script src="JS/app.js"></script>
+    <script src="script.js"></script>
+  
+
 </body>
 </html>
