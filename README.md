@@ -25,8 +25,8 @@
 
 This project was developed with the following technologies:
 
--  [HTML5](https://pt.wikipedia.org/wiki/HTML)
--  [CSS3](https://pt.wikipedia.org/wiki/CSS)
+-  [HTML](https://pt.wikipedia.org/wiki/HTML)
+-  [CSS](https://pt.wikipedia.org/wiki/CSS)
 -  [JavaScript](https://www.javascript.com/)
 -  [Github Pages](https://pages.github.com/)
 -  [VS Code](https://code.visualstudio.com/) 
